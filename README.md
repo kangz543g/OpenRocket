@@ -1,4 +1,5 @@
 # OpenRocket
+https://github.com/openrocket/openrocket 다운로드하세요.
 
 OpenRocket의 GUI를 통해 로켓을 설계하고 시뮬레이션하는 방법에 대해 자세히 설명하겠습니다.
 
